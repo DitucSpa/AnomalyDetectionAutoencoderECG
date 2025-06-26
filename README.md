@@ -6,6 +6,9 @@ Biomedical Engineering Thesis using AutoEncoder for Anomaly Detection for ECG si
 
 Aggiungere info, come è organizzata la folder e spiegare ogni files.
 
+Datasets:
+- [ECG-ID Database v1.0.0](https://physionet.org/content/ecgiddb/1.0.0/)
+
 
 Notebooks:
 - AnomalyDetection is a notebook that describes the AutoEncoder model used;
