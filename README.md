@@ -1,4 +1,4 @@
-# AnomalyDetectionAutoencoderECG
+# Autoencoder for Anomaly Detection in ECG signals
 Rosa Vittorione, Alessandro Fulignani, Gianluca Di Tuccio, Luca Roffia
 <br>
 
