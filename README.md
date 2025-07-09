@@ -12,3 +12,4 @@ Datasets:
 
 Notebooks:
 - AnomalyDetection is a notebook that describes the AutoEncoder model used;
+- RPeaks_Algorithm is a notebook that describes how to detect R peaks, in order segment the signal;
